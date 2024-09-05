@@ -7,4 +7,4 @@ How to set up the prototype:
   https://playground.raise.mit.edu/create/
 - Download the sb3 file onto your computer
 - In Scratch, select File and "Load from your computer"
-- The yellow blocks on top give instruction on what to click to get run the program
+- The yellow blocks on top give instruction on what to click to run the program

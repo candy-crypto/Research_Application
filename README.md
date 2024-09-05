@@ -1,4 +1,4 @@
-How to set up the code:
+How to set up the prototype:
 
 - The Teachable Machine link to my model is needed to see the running program in Scratch:
   https://teachablemachine.withgoogle.com/models/bt6xwyfs2/
